@@ -23,11 +23,11 @@ Distribution & Statistical Foundations
 
 Key Findings
 
-Sales distribution is right-skewed.
+- Sales distribution is right-skewed.
 
-Most baskets are small to moderate, while fewer large transactions drive the mean upward.
+- Most baskets are small to moderate, while fewer large transactions drive the mean upward.
 
-Mean > median across many segments confirms a long-tail structure.
+- Mean > median across many segments confirms a long-tail structure.
 
 Interpretation
 
